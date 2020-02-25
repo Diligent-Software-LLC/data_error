@@ -5,6 +5,7 @@ DataErrorLibrary is a Ruby exception library.
 
 Installation
 ------------
+
 Releases take two forms. Releases are packages on Github, and gems on Rubygems.
 
 ### Source: Github
@@ -119,9 +120,10 @@ include one's name. When ready, submit a pull request.
 Contributing
 ------------
 
-Pull requests are welcome on GitHub at [https://github.com/Diligent-Software-LLC/data_error_library](https://github.com/Diligent-Software-LLC/data_error_library)
-. This project is intended to be a safe, welcoming space for collaboration
-, and contributors are expected to adhere to the [Contributor Covenant](https://contributor-covenant.org) code of conduct.  
+Pull requests are welcome on GitHub at [https://github.com/Diligent-Software-LLC/data_error_library](https://github.com/Diligent-Software-LLC/data_error_library). 
+This project is intended to be a safe, welcoming space for collaboration, and
+contributors are expected to adhere to the 
+[Contributor Covenant](https://contributor-covenant.org) code of conduct.  
 
 ### Code Format
 
@@ -129,10 +131,8 @@ Pull requests are welcome on GitHub at [https://github.com/Diligent-Software-LLC
 
 ### Code of Conduct
 
-Everyone interacting in the DataErrorLibrary project’s codebases
-
-, issue trackers, chat rooms and mailing lists is expected to follow the
-
+Everyone interacting in the DataErrorLibrary project’s codebases, issue
+trackers, chat rooms and mailing lists is expected to follow the
 [code of conduct](https://github.com/Diligent-Software-LLC/data_error_library/blob/master/CODE_OF_CONDUCT.md).
 
 ### Bug reports
@@ -144,5 +144,5 @@ Everyone interacting in the DataErrorLibrary project’s codebases
 License
 -------  
 Copyright (c) 2020 Diligent Software LLC. All rights reserved. Released under
- the MIT License. The gem is available as open source under the terms of the
+the MIT License. The gem is available as open source under the terms of the
 [MIT License](https://opensource.org/licenses/MIT).

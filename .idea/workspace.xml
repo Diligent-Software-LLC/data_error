@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d06b5c63-7fad-4fe0-9439-8fb1a7ddb462" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/data_error_library.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data_error_library.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/data_error_library/version.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data_error_library/version.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +29,8 @@
     <property name="nodejs.protractor.protractor_package" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Ruby" />
   </component>
   <component name="RunManager">
     <configuration name="DataErrorLibraryTest" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true" nameIsGenerated="true">
@@ -88,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582593360290</updated>
-      <workItem from="1582593361836" duration="6450000" />
+      <workItem from="1582593361836" duration="8523000" />
     </task>
     <task id="LOCAL-00001" summary="Initialized Repository.&#10;&#10;Building the DataError library.">
       <created>1582593520867</created>
@@ -118,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582646707637</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=".travis.yml Complete.&#10;&#10;Filled the .travis.yml configuration file.&#10;&#10;#4wfbgw[complete]">
+      <created>1582646965611</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1582646965611</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,14 +139,19 @@
     <MESSAGE value="Wrote README.md.&#10;&#10;Combined the interface and implementation documentation, and filled sections. There are empty sections.&#10;&#10;#4wfbgr[in progress]" />
     <MESSAGE value="Wrote gemspec.&#10;&#10;Populated required fields and dependencies.&#10;&#10;#4wfbgn[complete], #4wfbgp[in progress]" />
     <MESSAGE value="Copyright Statements Added.&#10;&#10;Diligent Software LLC holds copyright.&#10;&#10;#4wfbgv[in progress]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Copyright Statements Added.&#10;&#10;Diligent Software LLC holds copyright.&#10;&#10;#4wfbgv[in progress]" />
+    <MESSAGE value=".travis.yml Complete.&#10;&#10;Filled the .travis.yml configuration file.&#10;&#10;#4wfbgw[complete]" />
+    <option name="LAST_COMMIT_MESSAGE" value=".travis.yml Complete.&#10;&#10;Filled the .travis.yml configuration file.&#10;&#10;#4wfbgw[complete]" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="214" y="71" key="CommitChangelistDialog2" timestamp="1582646707213">
+    <state x="584" y="364" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1582653250000">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="214" y="71" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1582646707213" />
+    <state x="584" y="364" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1680.975@0.23.1680.975" timestamp="1582653250000" />
+    <state x="214" y="71" key="CommitChangelistDialog2" timestamp="1582646965301">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="214" y="71" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1582646965301" />
     <state width="1413" height="271" key="GridCell.Tab.0.bottom" timestamp="1582646590686">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
@@ -153,6 +168,10 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state width="1413" height="271" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1582646590686" />
+    <state x="345" y="149" key="SettingsEditor" timestamp="1582653425669">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="345" y="149" key="SettingsEditor/0.23.1680.975@0.23.1680.975" timestamp="1582653425669" />
     <state x="429" y="250" key="Vcs.Push.Dialog.v2" timestamp="1582644620185">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
