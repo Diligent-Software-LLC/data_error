@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d06b5c63-7fad-4fe0-9439-8fb1a7ddb462" name="Default Changelist" comment="">
+    <list default="true" id="d06b5c63-7fad-4fe0-9439-8fb1a7ddb462" name="Default Changelist" comment="Merged Deploy Branch.&#10;&#10;Gem v0.0.1.&#10;&#10;#4wfbh2[complete], #4wfbgy[complete]">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582593360290</updated>
-      <workItem from="1582593361836" duration="11356000" />
+      <workItem from="1582593361836" duration="12158000" />
     </task>
     <task id="LOCAL-00001" summary="Initialized Repository.&#10;&#10;Building the DataError library.">
       <created>1582593520867</created>
@@ -152,11 +152,29 @@
       <option name="project" value="LOCAL" />
       <updated>1582656585679</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Merged Deploy Branch.&#10;&#10;Gem v0.0.1.&#10;&#10;#4wfbh2[complete], #4wfbgy[complete]">
+      <created>1582657212981</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1582657212981</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initialized Repository.&#10;&#10;Building the DataError library." />
@@ -167,7 +185,8 @@
     <MESSAGE value="README Formatted.&#10;&#10;Formatted the README file.&#10;&#10;##4wftc1[in progress]" />
     <MESSAGE value="All Code Formatted.&#10;&#10;Formatted the project.&#10;&#10;#4wftak[in progress], #4wftc1[in progress]" />
     <MESSAGE value="Built gem and deployed package.&#10;&#10;Gem v0.0.1.&#10;&#10;#4wfbh2[complete], #4wfbgy[complete]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Built gem and deployed package.&#10;&#10;Gem v0.0.1.&#10;&#10;#4wfbh2[complete], #4wfbgy[complete]" />
+    <MESSAGE value="Merged Deploy Branch.&#10;&#10;Gem v0.0.1.&#10;&#10;#4wfbh2[complete], #4wfbgy[complete]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merged Deploy Branch.&#10;&#10;Gem v0.0.1.&#10;&#10;#4wfbh2[complete], #4wfbgy[complete]" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -175,10 +194,10 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="584" y="364" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1680.975@0.23.1680.975" timestamp="1582654599211" />
-    <state x="214" y="71" width="1063" height="867" key="CommitChangelistDialog2" timestamp="1582657102194">
+    <state x="214" y="71" width="1063" height="867" key="CommitChangelistDialog2" timestamp="1582672302931">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="214" y="71" width="1063" height="867" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1582657102194" />
+    <state x="214" y="71" width="1063" height="867" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1582672302930" />
     <state width="1413" height="271" key="GridCell.Tab.0.bottom" timestamp="1582656396189">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
@@ -203,10 +222,10 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="345" y="149" key="SettingsEditor/0.23.1680.975@0.23.1680.975" timestamp="1582653425669" />
-    <state x="429" y="250" key="Vcs.Push.Dialog.v2" timestamp="1582656615783">
+    <state x="429" y="250" key="Vcs.Push.Dialog.v2" timestamp="1582672411473">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="429" y="250" key="Vcs.Push.Dialog.v2/0.23.1680.975@0.23.1680.975" timestamp="1582656615783" />
+    <state x="429" y="250" key="Vcs.Push.Dialog.v2/0.23.1680.975@0.23.1680.975" timestamp="1582672411473" />
     <state x="589" y="230" key="git4idea.branch.GitSmartOperationDialog" timestamp="1582657119176">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
