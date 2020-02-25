@@ -1,7 +1,15 @@
-require "test_helper"
+require 'test_helper'
 
+# DataErrorLibraryTest.
+# @abstract
+# DataErrorLibrary tests.
 class DataErrorLibraryTest < Minitest::Test
-  def test_that_it_has_a_version_number
+
+  # test_that_it_has_a_version_number().
+  # @abstract:
+  # The gem's version was defined.
+  def test_that_it_has_a_version_number()
     refute_nil ::DataErrorLibrary::VERSION
   end
+
 end

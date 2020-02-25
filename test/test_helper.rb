@@ -1,4 +1,4 @@
-$LOAD_PATH.unshift File.expand_path("../lib", __dir__)
-require "data_error_library"
+$LOAD_PATH.unshift File.expand_path('../lib', __dir__)
+require 'data_error_library'
 
-require "minitest/autorun"
+require 'minitest/autorun'
