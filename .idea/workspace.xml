@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d06b5c63-7fad-4fe0-9439-8fb1a7ddb462" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/data_error_library.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/data_error_library.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data_error_library.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_error_library.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/data_error_library.gemspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/data_error_library/version.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data_error_library/version.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582593360290</updated>
-      <workItem from="1582593361836" duration="4133000" />
+      <workItem from="1582593361836" duration="5618000" />
     </task>
     <task id="LOCAL-00001" summary="Initialized Repository.&#10;&#10;Building the DataError library.">
       <created>1582593520867</created>
@@ -64,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582593520868</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Wrote README.md.&#10;&#10;Combined the interface and implementation documentation, and filled sections. There are empty sections.&#10;&#10;#4wfbgr[in progress]">
+      <created>1582644613551</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582644613551</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,29 +78,34 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initialized Repository.&#10;&#10;Building the DataError library." />
-    <option name="LAST_COMMIT_MESSAGE" value="Initialized Repository.&#10;&#10;Building the DataError library." />
+    <MESSAGE value="Wrote README.md.&#10;&#10;Combined the interface and implementation documentation, and filled sections. There are empty sections.&#10;&#10;#4wfbgr[in progress]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wrote README.md.&#10;&#10;Combined the interface and implementation documentation, and filled sections. There are empty sections.&#10;&#10;#4wfbgr[in progress]" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="404" y="112" key="CommitChangelistDialog2" timestamp="1582593520547">
+    <state x="214" y="71" key="CommitChangelistDialog2" timestamp="1582646162168">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="404" y="112" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1582593520547" />
-    <state width="1413" height="272" key="GridCell.Tab.0.bottom" timestamp="1582593549600">
+    <state x="214" y="71" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1582646162168" />
+    <state width="1413" height="271" key="GridCell.Tab.0.bottom" timestamp="1582646181977">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1413" height="272" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1582593549599" />
-    <state width="1413" height="272" key="GridCell.Tab.0.center" timestamp="1582593549596">
+    <state width="1413" height="271" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1582646181977" />
+    <state width="1413" height="271" key="GridCell.Tab.0.center" timestamp="1582646181976">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1413" height="272" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1582593549596" />
-    <state width="1413" height="272" key="GridCell.Tab.0.left" timestamp="1582593549596">
+    <state width="1413" height="271" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1582646181976" />
+    <state width="1413" height="271" key="GridCell.Tab.0.left" timestamp="1582646181975">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1413" height="272" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1582593549596" />
-    <state width="1413" height="272" key="GridCell.Tab.0.right" timestamp="1582593549598">
+    <state width="1413" height="271" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1582646181975" />
+    <state width="1413" height="271" key="GridCell.Tab.0.right" timestamp="1582646181976">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1413" height="272" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1582593549598" />
+    <state width="1413" height="271" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1582646181976" />
+    <state x="429" y="250" key="Vcs.Push.Dialog.v2" timestamp="1582644620185">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="429" y="250" key="Vcs.Push.Dialog.v2/0.23.1680.975@0.23.1680.975" timestamp="1582644620185" />
   </component>
 </project>
