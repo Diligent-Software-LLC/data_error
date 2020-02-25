@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d06b5c63-7fad-4fe0-9439-8fb1a7ddb462" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/data_error_library.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data_error_library.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/data_error_library/version.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data_error_library/version.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/data_error_library_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/data_error_library_test.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582593360290</updated>
-      <workItem from="1582593361836" duration="6170000" />
+      <workItem from="1582593361836" duration="6450000" />
     </task>
     <task id="LOCAL-00001" summary="Initialized Repository.&#10;&#10;Building the DataError library.">
       <created>1582593520867</created>
@@ -114,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582646265521</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Copyright Statements Added.&#10;&#10;Diligent Software LLC holds copyright.&#10;&#10;#4wfbgv[in progress]">
+      <created>1582646707637</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1582646707637</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,14 +128,15 @@
     <MESSAGE value="Initialized Repository.&#10;&#10;Building the DataError library." />
     <MESSAGE value="Wrote README.md.&#10;&#10;Combined the interface and implementation documentation, and filled sections. There are empty sections.&#10;&#10;#4wfbgr[in progress]" />
     <MESSAGE value="Wrote gemspec.&#10;&#10;Populated required fields and dependencies.&#10;&#10;#4wfbgn[complete], #4wfbgp[in progress]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Wrote gemspec.&#10;&#10;Populated required fields and dependencies.&#10;&#10;#4wfbgn[complete], #4wfbgp[in progress]" />
+    <MESSAGE value="Copyright Statements Added.&#10;&#10;Diligent Software LLC holds copyright.&#10;&#10;#4wfbgv[in progress]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Copyright Statements Added.&#10;&#10;Diligent Software LLC holds copyright.&#10;&#10;#4wfbgv[in progress]" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="214" y="71" key="CommitChangelistDialog2" timestamp="1582646265180">
+    <state x="214" y="71" key="CommitChangelistDialog2" timestamp="1582646707213">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="214" y="71" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1582646265180" />
+    <state x="214" y="71" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1582646707213" />
     <state width="1413" height="271" key="GridCell.Tab.0.bottom" timestamp="1582646590686">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
