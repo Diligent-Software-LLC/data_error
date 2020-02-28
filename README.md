@@ -4,8 +4,6 @@ description: A DataError exception class library.
 
 # DataErrorLibrary
 
-DataErrorLibrary is a Ruby exception library.
-
 ## Installation
 
 Releases take two forms. Releases are packages on Github, and gems on Rubygems.
