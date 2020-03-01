@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d06b5c63-7fad-4fe0-9439-8fb1a7ddb462" name="Default Changelist" comment="Merged Deploy Branch.&#10;&#10;Gem v0.0.1.&#10;&#10;#4wfbh2[complete], #4wfbgy[complete]">
+    <list default="true" id="d06b5c63-7fad-4fe0-9439-8fb1a7ddb462" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/data_error_library.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data_error_library.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" beforeDir="false" afterPath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_error_library.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/data_error_library.gemspec" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,9 +16,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="deploying" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -94,7 +106,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582593360290</updated>
-      <workItem from="1582593361836" duration="12158000" />
+      <workItem from="1582593361836" duration="13059000" />
+      <workItem from="1583002544173" duration="3896000" />
     </task>
     <task id="LOCAL-00001" summary="Initialized Repository.&#10;&#10;Building the DataError library.">
       <created>1582593520867</created>
@@ -159,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582657212981</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Merged Deploy Branch.&#10;&#10;Gem v0.0.1.&#10;&#10;#4wfbh0[complete]">
+      <created>1582672515710</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1582672515710</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,7 +190,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -186,7 +208,8 @@
     <MESSAGE value="All Code Formatted.&#10;&#10;Formatted the project.&#10;&#10;#4wftak[in progress], #4wftc1[in progress]" />
     <MESSAGE value="Built gem and deployed package.&#10;&#10;Gem v0.0.1.&#10;&#10;#4wfbh2[complete], #4wfbgy[complete]" />
     <MESSAGE value="Merged Deploy Branch.&#10;&#10;Gem v0.0.1.&#10;&#10;#4wfbh2[complete], #4wfbgy[complete]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merged Deploy Branch.&#10;&#10;Gem v0.0.1.&#10;&#10;#4wfbh2[complete], #4wfbgy[complete]" />
+    <MESSAGE value="Merged Deploy Branch.&#10;&#10;Gem v0.0.1.&#10;&#10;#4wfbh0[complete]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merged Deploy Branch.&#10;&#10;Gem v0.0.1.&#10;&#10;#4wfbh0[complete]" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -194,26 +217,26 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="584" y="364" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1680.975@0.23.1680.975" timestamp="1582654599211" />
-    <state x="214" y="71" width="1063" height="867" key="CommitChangelistDialog2" timestamp="1582672302931">
+    <state x="214" y="71" width="1063" height="867" key="CommitChangelistDialog2" timestamp="1582672515394">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="214" y="71" width="1063" height="867" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1582672302930" />
-    <state width="1413" height="271" key="GridCell.Tab.0.bottom" timestamp="1582656396189">
+    <state x="214" y="71" width="1063" height="867" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1582672515394" />
+    <state width="1413" height="271" key="GridCell.Tab.0.bottom" timestamp="1582672724787">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1413" height="271" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1582656396189" />
-    <state width="1413" height="271" key="GridCell.Tab.0.center" timestamp="1582656396188">
+    <state width="1413" height="271" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1582672724787" />
+    <state width="1413" height="271" key="GridCell.Tab.0.center" timestamp="1582672724787">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1413" height="271" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1582656396188" />
-    <state width="1413" height="271" key="GridCell.Tab.0.left" timestamp="1582656396188">
+    <state width="1413" height="271" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1582672724787" />
+    <state width="1413" height="271" key="GridCell.Tab.0.left" timestamp="1582672724786">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1413" height="271" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1582656396188" />
-    <state width="1413" height="271" key="GridCell.Tab.0.right" timestamp="1582656396188">
+    <state width="1413" height="271" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1582672724786" />
+    <state width="1413" height="271" key="GridCell.Tab.0.right" timestamp="1582672724787">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1413" height="271" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1582656396188" />
+    <state width="1413" height="271" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1582672724787" />
     <state x="550" y="233" key="MultipleFileMergeDialog" timestamp="1582657150947">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
@@ -222,10 +245,14 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="345" y="149" key="SettingsEditor/0.23.1680.975@0.23.1680.975" timestamp="1582653425669" />
-    <state x="429" y="250" key="Vcs.Push.Dialog.v2" timestamp="1582672411473">
+    <state x="429" y="250" key="Vcs.Push.Dialog.v2" timestamp="1582672538214">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="429" y="250" key="Vcs.Push.Dialog.v2/0.23.1680.975@0.23.1680.975" timestamp="1582672411473" />
+    <state x="429" y="250" key="Vcs.Push.Dialog.v2/0.23.1680.975@0.23.1680.975" timestamp="1582672538214" />
+    <state x="503" y="272" width="667" height="476" key="find.popup" timestamp="1583106304606">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="503" y="272" width="667" height="476" key="find.popup/0.23.1680.975@0.23.1680.975" timestamp="1583106304606" />
     <state x="589" y="230" key="git4idea.branch.GitSmartOperationDialog" timestamp="1582657119176">
       <screen x="0" y="23" width="1680" height="975" />
     </state>

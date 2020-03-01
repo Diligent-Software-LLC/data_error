@@ -1,4 +1,4 @@
-VERSION = '0.0.1'.freeze()
+VERSION = '0.1.0'.freeze()
 
 Gem::Specification.new do |spec|
 
@@ -7,16 +7,19 @@ Gem::Specification.new do |spec|
   spec.authors = ['Bradley J. Tannor', 'Diligent Software LLC']
   spec.email   = ['bradleytannor@gmail.com', 'diligentsoftwarellc@gmail.com']
 
-  spec.summary = %q{A DataError exception library.}
-  #spec.description           = %q{A DataError exception library.}
-  spec.homepage              = 'https://github.com/Diligent-Software-LLC/data_error_library.'
+  spec.summary               = %q{A DataError exception class library.}
+  spec.description           = %q{A DataError exception class library. The
+DataError exception class is a data type-specific exception class. The
+default acceptable data types are Numeric, FalseClass, String, Symbol, Time,
+TrueClass, and NilClass.}
+  spec.homepage              = 'https://www.diligentsoftware.org'
   spec.license               = 'MIT'
   spec.required_ruby_version = Gem::Requirement.new('>= 2.6.5')
 
   #spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
 
   spec.metadata['homepage_uri']    = spec.homepage
-  spec.metadata['source_code_uri'] = spec.homepage
+  spec.metadata['source_code_uri'] = 'https://github.com/Diligent-Software-LLC/data_error_library'
   #spec.metadata["changelog_uri"]   = "TODO: Put your gem's CHANGELOG.md URL here."
 
   # Specify which files should be added to the gem when it is released.
@@ -33,7 +36,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'simplecov', '~> 0.17.1'
 
   # Gem specific runtime dependencies
-  spec.add_runtime_dependency 'data_error', '~> 1.1.3'
-  spec.add_runtime_dependency 'data_error_impl', '~> 1.4.3'
+  spec.add_runtime_dependency 'data_error', '~> 1.1.5'
+  spec.add_runtime_dependency 'data_error_impl', '~> 1.4.4'
 
 end

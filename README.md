@@ -1,23 +1,15 @@
-DataErrorLibrary ![Gem](https://img.shields.io/gem/v/data_error_library)![Gem](https://img.shields.io/gem/dt/data_error_library) ![Travis (.com) branch](https://img.shields.io/travis/com/Diligent-Software-LLC/data_error_library/master)
+DataErrorLibrary ![Gem](https://img.shields.io/gem/v/data_error_library) ![Gem](https://img.shields.io/gem/dt/data_error_library) ![Travis (.com) branch](https://img.shields.io/travis/com/Diligent-Software-LLC/data_error_library/master)
 ===============================================================================================================================================================================================================================================
 
-DataErrorLibrary is a Ruby exception library.
+DataErrorLibrary is a DataError exception class library.
 
 Installation
 ------------
 
-Releases take two forms. Releases are packages on Github, and gems on Rubygems.
-
-### Source: Github
-
-Follow the instructions at [Github Packages Help](https://help.github.com/en/packages/using-github-packages-with-your-projects-ecosystem/configuring-rubygems-for-use-with-github-packages#installing-a-package).
-
-### Source: Rubygems
-
 Add this line to your application's Gemfile:
 
 ```ruby
-gem "gem name", "~> 0.0.1"
+gem "data_error_library", "~> 0.1.0"
 ```
 
 And then execute:
@@ -40,11 +32,14 @@ Additional labels for pre-release and build metadata are available as
 extensions to the MAJOR.MINOR.PATCH format."
 
 **All versions 0.0.x, where x is a natural number, are unstable or incomplete.**
-
-Usage
+ If v0.0.1 was installed, update the gem:
+ 
+ ```bash
+    $ gem update data_error_library 
+```
+ 
+Source Documentation
 -----
-
-Describe.
 
 ### Attributes
 
@@ -56,31 +51,33 @@ The default message explaining a raised exception.
 
 * `INTERFACE`
 
-The interface constant, DataError.
+Defines the interface name. The interface name is the DataError constant.
 
 * `ACCEPTABLE_CORE_TYPES`
 
-An array containing symbolized data types. The types are Complex, Float
-, Integer, Rational, String, Bignum, Fixnum, NilClass, Symbol, and Time.
+An array containing stringified types. The acceptable types are Numeric
+, FalseClass, TrueClass, Symbol, String, Time, and NilClass
 
 * `DEFAULT_MESSAGE`
 
-A String explaining the argument object was an unacceptable type.
+Defines an instance's default error message. The STDERR string is "The
+ argument was neither a Numeric, FalseClass, TrueClass, Symbol, String, Time, or NilClass object."
 
 ### Methods
 
-There are six methods. Four methods are instance methods. The 
+There are five methods. Three methods are instance methods. The 
 `self.acceptable?(unkonwn_argument)` method, the 
-`initialize(message = nil)` method (constructor), the `message()` method, and
-the `raise_exception(argued_object)` method. Two methods are helper
- methods. The `convert_obj_sym(argument_object)`, and `choose(explanation)`.
+`initialize(message = DEFAULT_MESSAGE)` method (constructor), the 
+`message()` method, and the `raise_exception(argued_object)` method. Two
+ methods are helper methods. The `stringify_obj_type(argument_object)`, and
+ `choose(explanation)`.
 
 #### `self.acceptable?(unknown_argument)`
 
 **Public** class method. Verifies an object is an acceptable data type. Returns 
 true in the case the argument is acceptable data, and false otherwise.
 
-#### `initialize(message = nil)`
+#### `initialize(message = DEFAULT_MESSAGE)`
 
 **Public** constructor. Takes a String argument, message, explaining the
  default message raised in STDERR.
@@ -94,17 +91,16 @@ true in the case the argument is acceptable data, and false otherwise.
 In the case the object is an unacceptable data type instance, raises. Takes
  an unknown typed object. **Public**.
 
-#### `convert_obj_sym(argument_object)`
+#### `stringify_obj_type(argument_object)`
 
-**Helper** instance *and* class method. Symbolizes an argument object's type. 
-Takes an Object instance and returns its symbolized type.
+**Helper** instance *and* class method. Stringifies an object's type. 
+Takes an Object instance and returns its stringified type.
 
 #### `choose(explanation)`
 
 **Helper** instance *and* class method. In the case the explanation is not a
- String, the default message is "The argument was neither a Complex, 
- Float, Integer, Rational, String, Bignum, Fixnum, NilClass, Symbol, or Time
-object.".
+ String, the default message is "The argument was neither a Numeric
+ , FalseClass, TrueClass, Symbol, String, Time, or NilClass object."
 
 Development
 -----------  
@@ -125,21 +121,11 @@ This project is intended to be a safe, welcoming space for collaboration, and
 contributors are expected to adhere to the 
 [Contributor Covenant](https://contributor-covenant.org) code of conduct.  
 
-### Code Format
-
-  
-
 ### Code of Conduct
 
 Everyone interacting in the DataErrorLibrary project’s codebases, issue
 trackers, chat rooms and mailing lists is expected to follow the
 [code of conduct](https://github.com/Diligent-Software-LLC/data_error_library/blob/master/CODE_OF_CONDUCT.md).
-
-### Bug reports
-
-
-### Pull requests
-  
 
 License
 -------  
