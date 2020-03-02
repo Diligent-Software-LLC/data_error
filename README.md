@@ -56,7 +56,7 @@ Defines the interface name. The interface name is the DataError constant.
 * `ACCEPTABLE_CORE_TYPES`
 
 An array containing stringified types. The acceptable types are Numeric
-, FalseClass, TrueClass, Symbol, String, Time, and NilClass
+, FalseClass, TrueClass, Symbol, String, Time, and NilClass.
 
 * `DEFAULT_MESSAGE`
 

@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d06b5c63-7fad-4fe0-9439-8fb1a7ddb462" name="Default Changelist" comment="Merged Deploy Branch.&#10;&#10;Gem v0.0.1.&#10;&#10;#4wfbh2[complete], #4wfbgy[complete]">
-      <change beforePath="$PROJECT_DIR$/.idea/.rakeTasks" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/data_error_library.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data_error_library.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" beforeDir="false" afterPath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUMMARY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataerror.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataerrorimpl.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +22,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="deploying" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -78,6 +79,8 @@
         <item itemvalue="Test::Unit/Shoulda/Minitest.DataErrorLibraryTest" />
         <item itemvalue="Test::Unit/Shoulda/Minitest.DataErrorLibraryTest" />
         <item itemvalue="Test::Unit/Shoulda/Minitest.DataErrorLibraryTest" />
+        <item itemvalue="Test::Unit/Shoulda/Minitest.DataErrorLibraryTest" />
+        <item itemvalue="Test::Unit/Shoulda/Minitest.DataErrorLibraryTest" />
       </list>
     </recent_temporary>
   </component>
@@ -106,6 +109,7 @@
       <updated>1582593360290</updated>
       <workItem from="1582593361836" duration="13059000" />
       <workItem from="1583002544173" duration="3896000" />
+      <workItem from="1583107384437" duration="2585000" />
     </task>
     <task id="LOCAL-00001" summary="Initialized Repository.&#10;&#10;Building the DataError library.">
       <created>1582593520867</created>
@@ -211,6 +215,10 @@
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="574" y="264" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583109879484">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="574" y="264" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.975@0.23.1680.975" timestamp="1583109879484" />
     <state x="584" y="364" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1583107193065">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
@@ -235,26 +243,30 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state width="1413" height="271" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1583107136765" />
-    <state x="550" y="233" key="MultipleFileMergeDialog" timestamp="1582657150947">
+    <state x="550" y="233" width="574" height="554" key="MultipleFileMergeDialog" timestamp="1583109750143">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="550" y="233" key="MultipleFileMergeDialog/0.23.1680.975@0.23.1680.975" timestamp="1582657150947" />
+    <state x="550" y="233" width="574" height="554" key="MultipleFileMergeDialog/0.23.1680.975@0.23.1680.975" timestamp="1583109750143" />
     <state x="345" y="149" key="SettingsEditor" timestamp="1582653425669">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="345" y="149" key="SettingsEditor/0.23.1680.975@0.23.1680.975" timestamp="1582653425669" />
-    <state x="429" y="250" key="Vcs.Push.Dialog.v2" timestamp="1582672538214">
+    <state x="429" y="250" key="Vcs.Push.Dialog.v2" timestamp="1583107446868">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="429" y="250" key="Vcs.Push.Dialog.v2/0.23.1680.975@0.23.1680.975" timestamp="1582672538214" />
+    <state x="429" y="250" key="Vcs.Push.Dialog.v2/0.23.1680.975@0.23.1680.975" timestamp="1583107446868" />
     <state x="503" y="272" width="667" height="476" key="find.popup" timestamp="1583106304606">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="503" y="272" width="667" height="476" key="find.popup/0.23.1680.975@0.23.1680.975" timestamp="1583106304606" />
-    <state x="589" y="230" key="git4idea.branch.GitSmartOperationDialog" timestamp="1582657119176">
+    <state x="589" y="230" key="git4idea.branch.GitSmartOperationDialog" timestamp="1583109580739">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="589" y="230" key="git4idea.branch.GitSmartOperationDialog/0.23.1680.975@0.23.1680.975" timestamp="1582657119176" />
+    <state x="589" y="230" key="git4idea.branch.GitSmartOperationDialog/0.23.1680.975@0.23.1680.975" timestamp="1583109580739" />
+    <state x="473" y="308" key="git4idea.merge.GitPullDialog" timestamp="1583109492764">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="473" y="308" key="git4idea.merge.GitPullDialog/0.23.1680.975@0.23.1680.975" timestamp="1583109492764" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/data_error_library@DataErrorLibraryTest.rcov" NAME="DataErrorLibraryTest Coverage Results" MODIFIED="1583107104232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="data_error_library" />
