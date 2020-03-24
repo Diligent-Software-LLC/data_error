@@ -1,9 +1,9 @@
-VERSION = '0.1.0'.freeze()
+require_relative 'lib/data_error_library/version'
 
 Gem::Specification.new do |spec|
 
   spec.name    = 'data_error_library'
-  spec.version = VERSION
+  spec.version = DataErrorLibrary::VERSION
   spec.authors = ['Bradley J. Tannor', 'Diligent Software LLC']
   spec.email   = ['bradleytannor@gmail.com', 'diligentsoftwarellc@gmail.com']
 

@@ -8,6 +8,6 @@ require 'data_error_impl'
 # A DataError exception library.
 class DataErrorLibrary
 
-  VERSION = ::VERSION
+  VERSION = '0.1.1'.freeze()
 
 end
