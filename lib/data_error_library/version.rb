@@ -5,9 +5,7 @@ require 'data_error_impl'
 
 # DataErrorLibrary.
 # @abstract
-# A DataError exception library.
+#   A DataError exception library.
 class DataErrorLibrary
-
-  VERSION = '0.1.1'.freeze()
-
+  VERSION = '1.0.0'.freeze()
 end
