@@ -1,4 +1,4 @@
-# data_error_library ![Gem](https://img.shields.io/gem/v/data_error) ![Gem](https://img.shields.io/gem/dt/data_error) ![Travis (.com) branch](https://img.shields.io/travis/com/Diligent-Software-LLC/data_error/master)
+# data_error ![Gem](https://img.shields.io/gem/v/data_error) ![Gem](https://img.shields.io/gem/dt/data_error) ![Travis (.com) branch](https://img.shields.io/travis/com/Diligent-Software-LLC/data_error/master)
 
 ## Installation
 
