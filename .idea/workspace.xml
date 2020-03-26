@@ -25,21 +25,8 @@
     <option name="showStatusBarWidget" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d06b5c63-7fad-4fe0-9439-8fb1a7ddb462" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.rakeTasks" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/data_error_library.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data_error.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="d06b5c63-7fad-4fe0-9439-8fb1a7ddb462" name="Default Changelist" comment="Major Version 1.0.0&#10;&#10;Added, Edited, and Fixed.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" beforeDir="false" afterPath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_error_library.gemspec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/data_error_library.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data_error_library.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/data_error_library/version.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data_error_library/version.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/data_error_library_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/data_error_library_test.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_helper.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,7 +146,7 @@
       <workItem from="1583002544173" duration="3896000" />
       <workItem from="1583107384437" duration="2986000" />
       <workItem from="1585071242093" duration="462000" />
-      <workItem from="1585248989225" duration="8362000" />
+      <workItem from="1585248989225" duration="8934000" />
     </task>
     <task id="LOCAL-00001" summary="Initialized Repository.&#10;&#10;Building the DataError library.">
       <created>1582593520867</created>
@@ -245,7 +232,21 @@
       <option name="project" value="LOCAL" />
       <updated>1585071503704</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Major Version 1.0.0&#10;&#10;Added, Edited, and Fixed.">
+      <created>1585260974921</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1585260974922</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Major Version 1.0.0&#10;&#10;Added, Edited, and Fixed.">
+      <created>1585261031883</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1585261031883</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers>
       <YouTrack url="https://macbook-pro.local:8443">
         <option name="defaultSearch" value="project: LinkedList Component: DataError #{Prepare Deploy}" />
@@ -282,7 +283,8 @@
     <MESSAGE value="Merged Deploy Branch.&#10;&#10;Gem v0.0.1.&#10;&#10;#4wfbh0[complete]" />
     <MESSAGE value="All Tests Pass.&#10;&#10;All tests pass. Merged remote branch." />
     <MESSAGE value="Fixed Load Bug&#10;&#10;Version was defined in the gem specification file. Accessing the version outside the package was impossible." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed Load Bug&#10;&#10;Version was defined in the gem specification file. Accessing the version outside the package was impossible." />
+    <MESSAGE value="Major Version 1.0.0&#10;&#10;Added, Edited, and Fixed." />
+    <option name="LAST_COMMIT_MESSAGE" value="Major Version 1.0.0&#10;&#10;Added, Edited, and Fixed." />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -298,26 +300,26 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="584" y="364" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1680.975@0.23.1680.975" timestamp="1583107193065" />
-    <state x="214" y="71" width="1063" height="867" key="CommitChangelistDialog2" timestamp="1585260974517">
+    <state x="214" y="71" width="1063" height="867" key="CommitChangelistDialog2" timestamp="1585261042723">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="214" y="71" width="1063" height="867" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1585260974517" />
-    <state width="1539" height="271" key="GridCell.Tab.0.bottom" timestamp="1585255209872">
+    <state x="214" y="71" width="1063" height="867" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1585261042723" />
+    <state width="1539" height="271" key="GridCell.Tab.0.bottom" timestamp="1585261596762">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1539" height="271" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1585255209872" />
-    <state width="1539" height="271" key="GridCell.Tab.0.center" timestamp="1585255209871">
+    <state width="1539" height="271" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1585261596762" />
+    <state width="1539" height="271" key="GridCell.Tab.0.center" timestamp="1585261596760">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1539" height="271" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1585255209871" />
-    <state width="1539" height="271" key="GridCell.Tab.0.left" timestamp="1585255209871">
+    <state width="1539" height="271" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1585261596760" />
+    <state width="1539" height="271" key="GridCell.Tab.0.left" timestamp="1585261596760">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1539" height="271" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1585255209871" />
-    <state width="1539" height="271" key="GridCell.Tab.0.right" timestamp="1585255209871">
+    <state width="1539" height="271" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1585261596760" />
+    <state width="1539" height="271" key="GridCell.Tab.0.right" timestamp="1585261596761">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1539" height="271" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1585255209871" />
+    <state width="1539" height="271" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1585261596761" />
     <state x="550" y="233" width="574" height="554" key="MultipleFileMergeDialog" timestamp="1583109750143">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
@@ -326,10 +328,10 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="345" y="149" key="SettingsEditor/0.23.1680.975@0.23.1680.975" timestamp="1582653425669" />
-    <state x="429" y="250" key="Vcs.Push.Dialog.v2" timestamp="1585071619170">
+    <state x="429" y="250" key="Vcs.Push.Dialog.v2" timestamp="1585261047866">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="429" y="250" key="Vcs.Push.Dialog.v2/0.23.1680.975@0.23.1680.975" timestamp="1585071619170" />
+    <state x="429" y="250" key="Vcs.Push.Dialog.v2/0.23.1680.975@0.23.1680.975" timestamp="1585261047866" />
     <state x="633" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585260317185">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
