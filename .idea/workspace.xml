@@ -26,10 +26,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d06b5c63-7fad-4fe0-9439-8fb1a7ddb462" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.rakeTasks" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_error.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/data_error.gemspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/data_error_library/version.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data_error_library/version.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/console" beforeDir="false" afterPath="$PROJECT_DIR$/bin/console" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/data_error_library.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/data_error_library_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/data_error_library_test.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_helper.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +89,14 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Test::Unit/Shoulda/Minitest.test_version_declared">
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mv lib/data_error_library.rb lib/data_error.rb" />
+      <command value="cp ../&quot;Template Files&quot;/.yardopts .yardopts" />
+      <command value="cp ../&quot;Template Files&quot;/LICENSE.txt LICENSE.txt" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Test::Unit/Shoulda/Minitest.DataErrorLibraryTest">
     <configuration name="DataErrorLibraryTest" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true" nameIsGenerated="true">
       <module name="data_error" />
       <predefined_log_file enabled="true" id="RUBY_TESTUNIT" />
@@ -144,8 +157,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Test::Unit/Shoulda/Minitest.test_version_declared" />
         <item itemvalue="Test::Unit/Shoulda/Minitest.DataErrorLibraryTest" />
+        <item itemvalue="Test::Unit/Shoulda/Minitest.test_version_declared" />
         <item itemvalue="Test::Unit/Shoulda/Minitest.DataErrorLibraryTest" />
         <item itemvalue="Test::Unit/Shoulda/Minitest.DataErrorLibraryTest" />
         <item itemvalue="Test::Unit/Shoulda/Minitest.DataErrorLibraryTest" />
@@ -181,7 +194,7 @@
       <workItem from="1585071242093" duration="462000" />
       <workItem from="1585248989225" duration="10676000" />
       <workItem from="1585263909495" duration="208000" />
-      <workItem from="1587766600551" duration="1163000" />
+      <workItem from="1587766600551" duration="2481000" />
     </task>
     <task id="LOCAL-00001" summary="Initialized Repository.&#10;&#10;Building the DataError library.">
       <created>1582593520867</created>
@@ -295,10 +308,17 @@
       <option name="project" value="LOCAL" />
       <updated>1585261756189</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Setup Complete&#10;&#10;Updated version.rb's copyright statement. Edited version.rb's YARDocumentation. Bumped the Major Version. Formatted the Gem Specification. Fixed Gem Specification attributes 'description', 'homepage', 'license', and 'changelog_uri'. Updated dependencies.">
+      <created>1587768107303</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1587768107303</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers>
       <YouTrack url="https://macbook-pro.local:8443">
-        <option name="defaultSearch" value="project: Data Subsystem: Error Component: Library State:{Setup} " />
+        <option name="defaultSearch" value="project: Data Subsystem: Error Component: Library State:{Development} " />
         <username>admin</username>
       </YouTrack>
     </servers>
@@ -335,7 +355,8 @@
     <MESSAGE value="Major Version 1.0.0&#10;&#10;Added, Edited, and Fixed." />
     <MESSAGE value="Bug Fix&#10;&#10;Rubygems' version 1.0.0 taken. Using 2.0.0." />
     <MESSAGE value="Missed File&#10;&#10;Staged Gemfile.lock." />
-    <option name="LAST_COMMIT_MESSAGE" value="Missed File&#10;&#10;Staged Gemfile.lock." />
+    <MESSAGE value="Setup Complete&#10;&#10;Updated version.rb's copyright statement. Edited version.rb's YARDocumentation. Bumped the Major Version. Formatted the Gem Specification. Fixed Gem Specification attributes 'description', 'homepage', 'license', and 'changelog_uri'. Updated dependencies." />
+    <option name="LAST_COMMIT_MESSAGE" value="Setup Complete&#10;&#10;Updated version.rb's copyright statement. Edited version.rb's YARDocumentation. Bumped the Major Version. Formatted the Gem Specification. Fixed Gem Specification attributes 'description', 'homepage', 'license', and 'changelog_uri'. Updated dependencies." />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -351,26 +372,26 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="584" y="364" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1680.975@0.23.1680.975" timestamp="1583107193065" />
-    <state x="214" y="71" width="1063" height="867" key="CommitChangelistDialog2" timestamp="1585261755907">
+    <state x="130" y="71" width="1410" height="867" key="CommitChangelistDialog2" timestamp="1587768107062">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="214" y="71" width="1063" height="867" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1585261755907" />
-    <state width="1539" height="271" key="GridCell.Tab.0.bottom" timestamp="1585264108961">
+    <state x="130" y="71" width="1410" height="867" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1587768107062" />
+    <state width="1539" height="271" key="GridCell.Tab.0.bottom" timestamp="1587769132850">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1539" height="271" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1585264108961" />
-    <state width="1539" height="271" key="GridCell.Tab.0.center" timestamp="1585264108960">
+    <state width="1539" height="271" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1587769132850" />
+    <state width="1539" height="271" key="GridCell.Tab.0.center" timestamp="1587769132849">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1539" height="271" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1585264108960" />
-    <state width="1539" height="271" key="GridCell.Tab.0.left" timestamp="1585264108960">
+    <state width="1539" height="271" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1587769132849" />
+    <state width="1539" height="271" key="GridCell.Tab.0.left" timestamp="1587769132849">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1539" height="271" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1585264108960" />
-    <state width="1539" height="271" key="GridCell.Tab.0.right" timestamp="1585264108961">
+    <state width="1539" height="271" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1587769132849" />
+    <state width="1539" height="271" key="GridCell.Tab.0.right" timestamp="1587769132850">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1539" height="271" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1585264108961" />
+    <state width="1539" height="271" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1587769132850" />
     <state x="550" y="233" width="574" height="554" key="MultipleFileMergeDialog" timestamp="1583109750143">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
@@ -403,18 +424,18 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state width="600" height="424" key="javadoc.popup/0.23.1680.975@0.23.1680.975" timestamp="1585260008337" />
-    <state x="508" y="235" key="run.anything.popup" timestamp="1587767815238">
+    <state x="508" y="235" width="670" height="675" key="run.anything.popup" timestamp="1587768803221">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="508" y="235" key="run.anything.popup/0.23.1680.975@0.23.1680.975" timestamp="1587767815238" />
-    <state x="508" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1587766942319">
+    <state x="508" y="235" width="670" height="675" key="run.anything.popup/0.23.1680.975@0.23.1680.975" timestamp="1587768803221" />
+    <state x="508" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1587769218279">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="508" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1587766942319" />
+    <state x="508" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1587769218279" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/data_error@test_version_declared.rcov" NAME="test_version_declared Coverage Results" MODIFIED="1585264100448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="data_error" />
     <SUITE FILE_PATH="coverage/data_error_library@DataErrorLibraryTest.rcov" NAME="DataErrorLibraryTest Coverage Results" MODIFIED="1585071466873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="data_error_library" />
-    <SUITE FILE_PATH="coverage/data_error@DataErrorLibraryTest.rcov" NAME="DataErrorLibraryTest Coverage Results" MODIFIED="1585255204843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="data_error" />
+    <SUITE FILE_PATH="coverage/data_error@DataErrorLibraryTest.rcov" NAME="DataErrorLibraryTest Coverage Results" MODIFIED="1587769129425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="data_error" />
   </component>
 </project>
