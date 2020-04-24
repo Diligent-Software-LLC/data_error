@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    data_error (2.0.0)
+    data_error (3.0.0)
       data_error_impl (~> 2.0.0)
 
 GEM
@@ -24,13 +24,13 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bundler (~> 2.1.2)
+  bundler (~> 2.1)
   data_error!
   data_error_impl (~> 2.0.0)
-  data_error_int (~> 2.0.0)
+  data_error_int (~> 2)
   minitest (~> 5.0)
   rake (~> 13.0)
-  simplecov (~> 0.17.1)
+  simplecov (~> 0)
 
 BUNDLED WITH
    2.1.2
