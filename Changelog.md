@@ -1,5 +1,30 @@
 # Changelog
 
+## v3.0.0, 2020-04-24
+
+### Added
+
+- A .yardopts file test assertion.
+
+### Edited
+
+- Copyright statements.
+- Formatted Gem Specification.
+- Updated dependencies.
+- Renamed data_error_library.rb data_error.rb.
+- Deleted Travis CI deployment settings.
+- Substituted GNU General Public License, Version 3.
+- Updated README.md's donation section.
+
+### Fixed
+
+- YARDocumentation.
+- Gem Specification 'description', 'homepage', 'license', and 'changelog_uri' 
+attributes.
+- console 'require' statement.
+- test_helper.rb's 'require' statement.
+- README.md's Installation and Documentation links.
+
 ## v1.0.0, 2020-03-26
 
 ### Added
